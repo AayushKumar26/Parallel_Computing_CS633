@@ -1,6 +1,6 @@
-# Parallel_Computing_CS633
+# MPI-Based Parallel Computing
 
-Assignments for **CS633: Parallel Computing** at IIT Kanpur. Implementations focus on MPI-based parallel programming patterns, evaluated on the **PARAM Rudra** cluster.
+> Implementations of parallel communication and computation patterns in C using MPI, benchmarked on the **PARAM Rudra** HPC cluster. Covers deadlock-free point-to-point pipelines, 3D stencil computation with communication–computation overlap, and scalability analysis across multi-node deployments.
 
 ---
 
